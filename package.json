@@ -3,6 +3,7 @@
     "publisher": "SimplyCmd",
     "displayName": "Rust Necessities",
     "description": "Everything you need to effectively code in Rust",
+    "repository": "https://github.com/SimplyCmd/rust-necessities",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.67.0"
