@@ -1,0 +1,20 @@
+{
+    "name": "rust-necessities",
+    "publisher": "SimplyCmd",
+    "displayName": "Rust Necessities",
+    "description": "Everything you need to effectively code in Rust",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "rust-lang.rust-analyzer",
+        "dustypomerleau.rust-syntax",
+        "tamasfe.even-better-toml",
+        "serayuzgur.crates",
+        "ZhangYue.rust-mod-generator"
+    ]
+}
